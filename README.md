@@ -3,7 +3,7 @@
 ### My name is **Ben**. 
 
 ### About Me
-* I am a Senior Lecturer in Computer Science at Bournemouth University, where I research Accessibility and HCI :man_teacher:.
+* I am a Deputy Head of the Department of Computing & Informatics at Bournemouth University, where I research Accessibility and HCI :man_teacher:.
 
 ### Where do you usually find me?
 
